@@ -21,3 +21,4 @@ async def hola(ctx):
 
 bot.run(TOKEN)
 
+add bot code
